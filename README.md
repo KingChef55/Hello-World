@@ -1,3 +1,4 @@
 # Hello-World
 My first try. 
-My cousin Chris is helping me get started. 
+Ive put this off for far too long.
+I have plenty of wasted time, might as well learn a new skill.
